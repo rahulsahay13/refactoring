@@ -1,3 +1,5 @@
+14ff44e Task 2.3: Remove frmt temp; add usd(int) helper; update calls
+48b2a50 Task 2.2: Update log.txt
 917b44c Task 2.2: Marker commit (already completed work)
 7fcb1f2 Task 2.1: Update log.txt
 51771c5 Task 2.1: Extract getAmount, add getPlay, inline temps, rename params/locals
