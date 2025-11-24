@@ -1,3 +1,5 @@
+1d0c42f Task 2.4: Split loops; slide initializations; extract getTotalAmount/getTotalVolumeCredits
+7e73d2c Task 2.3: Update log.txt
 14ff44e Task 2.3: Remove frmt temp; add usd(int) helper; update calls
 48b2a50 Task 2.2: Update log.txt
 917b44c Task 2.2: Marker commit (already completed work)
